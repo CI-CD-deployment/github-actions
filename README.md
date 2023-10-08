@@ -1,8 +1,13 @@
-# React + Vite
+# Github actions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Övningar
 
-Currently, two official plugins are available:
+1. Skapa en Github actions yaml-fil som när man pushar till main bygger och deployar ditt Reactprojekt från förra veckans övning (**Interval**) eller bygg och använd någon av nedanstående React övningar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Skapa en Github actions yaml-fil som vid push till dev-branchen kör en `npm run lint` och validerar ditt projekt på något av nedanstående React övningar.
+
+**React övningar**
+
+Todo-app: https://www.figma.com/file/I3Uo30SttITRFcVBdOoLzS/Todo-App?type=design&node-id=0-1&mode=design&t=hlIYyOPOfi0H5jC4-0
+
+Star Wars: https://gist.github.com/zocom-christoffer-wallenberg/da7c094188663671fef80b0f1f3af124
